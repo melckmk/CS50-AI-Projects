@@ -14,3 +14,5 @@ Submissions of [CS50's Introduction to Artificial Intelligence with Python](http
 - ## **Project 4**
   - [***Shopping:***](https://github.com/melckmk/CS50-AI-Projects/tree/main/Project%204/shopping) Implementing an AI to predict whether online shopping customers will complete a purchase using k-nearest neighbor model in scikit-learn library.
   - [***Nim:***](https://github.com/melckmk/CS50-AI-Projects/tree/main/Project%204/nim) Implementing an AI that teaches itself to play Nim through reinforcement learning (Q-learning).
+- ## **Project 5**
+  - [***Traffic:***](https://github.com/melckmk/CS50-AI-Projects/tree/main/Project%205/traffic) Building a Neural Network to identify which traffic sign appears in a photograph. 
